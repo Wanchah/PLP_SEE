@@ -17,6 +17,7 @@ sum_result = num1 + num2
 # Subtract the second number from the first (Negative vibes, but necessary! 😜) ➖
 difference_result = num1 - num2
 
+
 # Multiply the two numbers (More bang for your buck! 💥) ✖️
 product_result = num1 * num2
 
