@@ -86,8 +86,4 @@ Feel free to connect or reach out:
 
 Thanks for visiting! 🙌
 
-
-
-Would you like help writing a short project description for your GitHub repo or customizing your favicon and meta tags for better SEO?
-
 
