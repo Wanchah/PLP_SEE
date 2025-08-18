@@ -55,7 +55,7 @@ You can deploy this portfolio using **GitHub Pages**:
 5. Your site will be live at:  
 
 
-https://Wanchah.github.io/portfolio/
+https://Wanchah.github.io/PLP_SEE/portfolio/
 
 ---
 
